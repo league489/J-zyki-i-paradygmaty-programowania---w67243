@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gYmxx8oWgvWbs9fPIr39pHLLKRwfvMV2z5wJLxB5YWVa7M0pKq4lt/qmgjOT75V6JNObnVa6XV9jyLz9KcXJSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leagu\\OneDrive\\Pulpit\\pytong\\lab6\\lab6.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leagu\\.nuget\\packages\\fsharp.core\\7.0.200\\fsharp.core.7.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
