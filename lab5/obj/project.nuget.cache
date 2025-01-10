@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xt37HjBHOOwg7h/XvOahOFlhB03rloEJR/3ZhxjftahbGkidi05h/d+aPFTV4ipF47s3UplqrSTQ8p7+nac5bA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leagu\\OneDrive\\Pulpit\\Laboratorium\\lab5\\lab5.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leagu\\.nuget\\packages\\fsharp.core\\7.0.200\\fsharp.core.7.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
